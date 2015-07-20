@@ -55,3 +55,8 @@ Upload to 1.12
 1.1.2.?
 
 Added dependencies=XP_Modification,Plan_Your_Advancements_Mod
+Removed lms
+
+
+todo: update clash in cave, suitable fix for that(war for villages) is destroying villages of side that is dead
+
